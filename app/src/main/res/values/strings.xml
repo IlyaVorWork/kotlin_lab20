@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Lab20</string>
+    <string name="show_notification_button_text">Показать уведомление</string>
+    <string name="selected_color">Выбран цвет: %s</string>
 </resources>
